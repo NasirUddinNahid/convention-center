@@ -1,10 +1,6 @@
-.ourpackage-chose-plan-btn{
-    background-color:#f3e6ef ;
- 
 
-}
 
-/* carousel choose button */
+/* carousel choose button design */
 
 
 .carousel-item img{
@@ -15,6 +11,14 @@ height: 800px;
     
     background-color: #ffffff;
     text-decoration: none;
+
+}
+
+/* our package button design */
+
+.ourpackage-chose-plan-btn{
+    background-color:#f3e6ef ;
+ 
 
 }
 
